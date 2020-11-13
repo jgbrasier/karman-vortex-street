@@ -45,4 +45,5 @@ You can visualise the Von Karman Vortex with any program that reads .vtk files, 
 
 ### Final Report:
 You are free to read my report. It is in french ^^
+
 (c) Jean-Guillaume Brasier and Pablo Mas, graduate students at ESPCI Paris
