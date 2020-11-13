@@ -29,17 +29,18 @@ When launching:
 
 ``` Entrer le nombre d'itérations: ``` input number of interations (1000+ for Reynolds < 1000)
 
-### Outputs
+### Outputs:
 
 Program outputs a series of .vtk (visual tool kit) files every t=10 (adimentional time frame)
 
-### MATLAB analysis
+### MATLAB analysis:
 
 __main.m___: Main file to extract and display computed data.
 __session_variables.mat__: MATLAB variables to load in if you do not wish to run computations
 
-### Visualisation
-You can visualise the Von Karman Vortex with any program that reads .vtk files, I used __Paraview-5.8.0__
+### Visualisation:
+You can visualise the Von Karman Vortex with any program that reads .vtk files, I used __Paraview-5.8.0__.
+![Vortex](Captures/Re100_courant.png)
 
-### Report
+### Final Report:
 You are free to read my report. It is in french ^^
