@@ -36,6 +36,7 @@ Program outputs a series of .vtk (visual tool kit) files every t=10 (adimentiona
 ### MATLAB analysis:
 
 __main.m___: Main file to extract and display computed data.
+
 __session_variables.mat__: MATLAB variables to load in if you do not wish to run computations
 
 ### Visualisation:
