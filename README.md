@@ -23,7 +23,7 @@ launch simulation in prompt: ``` FreeFem++ BVK_simple_2019.edp``` and follow ins
 
 When launching: 
 
-``` Raffinement automatique du maillage pendant le calcul? (o/n): ``` recomment you put in ```n``` (no), otherwise compute times will be too long (several hours)
+``` Raffinement automatique du maillage pendant le calcul? (o/n): ``` recommend you put in ```n``` (no), otherwise compute times will be too long (several hours)
 
 ``` Entrer le nombre de Reynolds: ``` input reynolds number (around 0-1000 for current configurations, modifiable in FreeFem++)
 
